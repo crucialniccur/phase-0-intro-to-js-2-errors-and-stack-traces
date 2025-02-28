@@ -17,7 +17,7 @@ function second() {
 }
 
 function third() {
-  console.log("Now am a");
+  console.log("Now am a function!");
 }
 
 first();
