@@ -16,4 +16,6 @@ function second() {
   third();
 }
 
+const third = "Declaring a new variable.";
+
 first();
