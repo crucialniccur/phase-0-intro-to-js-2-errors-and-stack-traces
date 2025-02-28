@@ -16,6 +16,8 @@ function second() {
   third();
 }
 
-const third = "Declaring a new variable.";
+function third() {
+  console.log("Now am a");
+}
 
 first();
